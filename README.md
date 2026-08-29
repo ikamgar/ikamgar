@@ -1,16 +1,29 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ikamgar/ikamgar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/identity.svg" width="900" alt="Animated Aqua Launch identity with ASCII portrait and ASCII wordmark" />
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./assets/contributions.svg" width="900" alt="Animated contribution activity with moving spacecraft" />
+
+<br><br>
+
+<img src="./assets/signal.svg" width="900" alt="Live GitHub profile signal and language stack" />
+
+<br><br>
+
+<a href="https://artabidkhori.com"><img src="https://img.shields.io/badge/PORTFOLIO-43ead3?style=for-the-badge&labelColor=071416&color=43ead3" alt="Portfolio" /></a>
+<a href="https://github.com/Jenesyx"><img src="https://img.shields.io/badge/GITHUB-4387ff?style=for-the-badge&logo=github&logoColor=dcfff7&labelColor=071416" alt="GitHub" /></a>
+<a href="mailto:hello@example.com"><img src="https://img.shields.io/badge/CONTACT-9b6cff?style=for-the-badge&logo=gmail&logoColor=dcfff7&labelColor=071416" alt="Email" /></a>
+
+<br>
+
+<sub><strong>AQUA LAUNCH</strong> · animated profile system · powered by live GitHub data</sub>
+
+</div>
+
+---
+
+### Deploy this style
+
+Follow [SETUP.md](./SETUP.md) to replace the photo, animate your own name, connect your GitHub data, and enable automatic daily updates.
